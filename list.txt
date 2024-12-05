@@ -1,0 +1,6 @@
+apple
+cat
+dog
+fish
+zebrz
+egg
